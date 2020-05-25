@@ -63,7 +63,7 @@ If we Proejct ReadMe
 
 #### 5 - 1 . 사이트 접속 및 로그인
 
--   Url : http://localhost:9090/ifwe/
+-   Url : http://ifwe.coi.kr
 -   ID : test001
 -   PASSWORD : test001!
 
